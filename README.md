@@ -14,15 +14,15 @@
 <body>
   <header>
     <h1 style="margin:0;font-size:1.25rem;">C111 Report</h1>
-    <a class="button" href="https://jpr-code1.github.io/C111report.pdf" target="_blank" rel="noopener">Open PDF in new tab</a>
+    <a class="button" href="https://jpr-code1.github.io/C111 final report JPR.pdf" target="_blank" rel="noopener">Open PDF in new tab</a>
   </header>
 
   <!-- Inline embed (uses your Pages URL) -->
-  <iframe class="viewer" src="https://jpr-code1.github.io/C111report.pdf" title="C111 Report"></iframe>
+  <iframe class="viewer" src="https://jpr-code1.github.io/C111 final report JPR.pdf" title="C111 Report"></iframe>
 
 
   <!-- Fallback link (for browsers/devices that don't support inline PDF) -->
-  <p>If the report doesn't display, <a href="https://jpr-code1.github.io/C111report.pdf">download the C111 report (PDF)</a>.</p>
+  <p>If the report doesn't display, <a href="https://jpr-code1.github.io/C111 final report JPR.pdf">download the C111 report (PDF)</a>.</p>
 
   <p style="margin-top:1rem;">
   <a href="https://jpr-code1.github.io/more_year_project.ipynb">Link to Project Code</a>
