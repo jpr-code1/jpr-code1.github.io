@@ -20,9 +20,6 @@
   <!-- Inline embed (uses your Pages URL) -->
   <iframe class="viewer" src="https://jpr-code1.github.io/C111report.pdf" title="C111 Report"></iframe>
 
-  [Link to Project Code](https://jpr-code1.github.io/more_year_project.ipynb)
-</body>
-</html>
 
   <!-- Fallback link (for browsers/devices that don't support inline PDF) -->
   <p>If the report doesn't display, <a href="https://jpr-code1.github.io/C111report.pdf">download the C111 report (PDF)</a>.</p>
