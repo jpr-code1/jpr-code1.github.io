@@ -26,9 +26,10 @@
 
   <!-- Fallback link (for browsers/devices that don't support inline PDF) -->
   <p>If the report doesn't display, <a href="https://jpr-code1.github.io/C111report.pdf">download the C111 report (PDF)</a>.</p>
-</body>
-</html>
 
- <p style="margin-top:1rem;"><a href="https://jpr-code1.github.io/more_year_project.ipynb">Link to Project Code</a></p>
-</body>
-</html>
+  <p style="margin-top:1rem;">
+  <a href="https://jpr-code1.github.io/more_year_project.ipynb">Link to Project Code</a>
+</p>
+
+
+
