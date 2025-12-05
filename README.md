@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>C111 Report</title>
+  <title>C111 Final Project Report</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
     body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; margin: 0; padding: 1rem; }
